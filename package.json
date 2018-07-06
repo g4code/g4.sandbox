@@ -1,0 +1,29 @@
+{
+  "name": "g4.sandbox",
+  "version": "1.0.0",
+  "description": "JS Sandbox",
+  "main": "src/sandbox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/g4code/g4.sandbox.git"
+  },
+  "keywords": [
+    "g4.sandbox",
+    "sandbox"
+  ],
+  "author": "G4 Code <office@g4code.com>",
+  "maintainers": [
+    "Drasko Gomboc <drasko.gomboc@gmail.com>",
+    "Zeljko Simic <zeljkosbgd@gmail.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/g4code/g4.sandbox/issues"
+  },
+  "homepage": "https://github.com/g4code/g4.sandbox#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
